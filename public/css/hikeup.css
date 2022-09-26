@@ -1,0 +1,1029 @@
+/* section 1 */
+.topnav {
+    overflow: hidden;
+    background-color: #C9D4CE;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #303131;
+    text-align: center;
+    padding: 1.4rem 1.6rem;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.split {
+    float: left;
+    color: black;
+    font-family:'Rampart One', cursive;
+    font-size: 2rem;
+  }
+
+
+.sec1{
+    width: 100%;
+    height: 40rem;
+    background-color:#C9D4CE;  
+}
+.nav{
+    box-sizing: border-box;
+    padding-top: 5vw;
+    clear: both;
+    
+}
+.sidea{
+  width: 50%;
+  float: left;
+  padding-top: 3vw;
+  padding-left: 15vw;
+  
+
+}
+.sideb{
+    width: 50%;
+    float: right;
+    background-size: contain;
+    padding-left: 5vw;
+}
+
+.img1{
+    border-end-end-radius: 50vw; 
+    border-end-start-radius: 50vw; 
+    border-start-end-radius: 50vw; 
+    border-start-start-radius: 50vw;
+    height: 90%;
+    width: 70%;
+}
+.hed1{
+    font-size: 4rem;
+}
+.hed2{
+    color: rgb(97, 97, 97);
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+}
+
+/* section 1 end */
+
+/* section 2 */
+
+.sec2{
+    width: 100%;
+    height: 40rem;
+    background-image: url("https://assets.cntraveller.in/photos/612670a215e6c3223c8901d0/master/w_1600,c_limit/Rajgad%20Fort.jpg");
+    background-repeat: no-repeat;
+    font-family: 'League Spartan', sans-serif;
+    width: 100%;
+    padding-top: 15vw;
+    clear: both;
+}
+.box{
+    box-sizing: border-box;
+    clear: both;
+    align-items: center;
+   
+    
+}
+
+.block1{
+    width: 20%;
+    float: left; 
+    margin-left:20% ;
+    background-color: white;
+    padding: 2vw;
+}
+.block1 li{
+    font-size: 1.5vw;
+    
+}
+.block2{
+    width: 20%;
+    float: left; 
+    background-color: white;
+    padding: 2vw;
+}
+.block2 li{
+    font-size: 1.5vw;
+    
+}
+
+.block3{
+    width: 20%;
+    float: left;
+    margin-right:20% ;
+    background-color: white; 
+    padding: 2vw;
+}
+.block3 li{
+    font-size: 1.5vw;
+    
+}
+
+/* section 2 end */
+
+/* section 3 */
+
+.sec3{
+    width: 100%;
+    height: 40rem;
+    background-color:#AAABC0;
+}
+.container{
+    box-sizing: border-box;
+}
+.trekk{
+    text-align: center;
+}
+.trekk p{
+    font-size: 1.6vw;
+}
+.trekk h2{
+    font-size: 3vw;
+    font-family: 'League Spartan', sans-serif;
+}
+.card-text{
+    text-decoration:#303131;
+    color:#303131;
+    font-weight: 5px;
+}
+
+.col1{
+    width: 20%;
+    float: left; 
+    margin-left:20% ;
+   
+}
+.col2{
+    width: 20%;
+    float: left; 
+   
+    
+}
+.col3{
+    width: 20%;
+    float: left;
+    margin-right:20% ;
+   
+}
+
+/* section 4 */
+.sec4{
+    width: 100%;
+    height: 35rem;
+    padding-top: 7rem;
+    clear: both;
+    background-color:#C9D4CE;  
+}
+.sec4 h2{
+    font-size:3vw;
+    text-align: center;
+    font-weight: bold;
+    font-family:'League Spartan', sans-serif;
+}
+.sec4 p{
+    font-family:'League Spartan', sans-serif;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 1.5vw;
+}
+
+.sec4 p input{
+    margin-left: 7rem;
+}
+/* section 4 end */
+
+/* INSTANT SEC */
+.instant {
+    /* display: flex; */
+    text-align: center;
+    background-color: #c7c8cf;
+}
+.instant h1, h4 {
+    font-family: 'League Spartan';
+}
+
+/* section 5*/
+.sec5{
+    /* margin: 5rem; */
+    width: 100%; 
+    height: 20rem;  
+}
+.aside7{
+    text-align: center;  
+}
+.aside7 a{
+    font-size: xx-large;
+    cursor: pointer;
+    text-decoration:none; 
+}
+.aside7 p{
+    font-size: xx-large; 
+    font-size:larger;
+    font-family:'League Spartan', sans-serif;
+    line-height:1.5vw; 
+    font-size: 1.5rem;
+    
+}
+.tainer-con{
+    background-color:#C9D4CE; 
+    width: 100%;
+    height: 30rem;
+}
+.fa {
+    padding: 0.5rem;
+    font-size: 5rem;
+    width: 2.5rem;
+    text-align: center;
+    text-decoration: none;
+    border:1px solid #C9D4CE;
+    border-radius: 50%;
+    margin: 0.3vw;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      color:#C9D4CE;
+  }
+  
+  .fa-facebook {
+    background: #303131;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #303131;
+    color: white;
+  }
+  .fa-instagram {
+    background: #303131;
+    color: white;
+  }
+
+  .footer{
+    font-family:'League Spartan', sans-serif;
+    line-height: 3vw;
+    font-size: 1.3vw;
+    margin-right: 5vw;
+
+  }
+
+/* section 5 end */
+
+/* FOOTER FORM */
+* {box-sizing: border-box;}
+
+
+/* Fixed Button */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 6px 6px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  left: 28px;
+  width: 200px;
+}
+
+/* popup form - hidden*/
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 15px;
+  border: 3px solid #2E3620;
+  z-index: 9;
+}
+
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+.form-container .h6{
+    line-height: 2rem;
+    }
+.form-container input[type=text], .form-container input[type=text] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* focus on input*/
+.form-container input[type=text]:focus, .form-container input[type=text]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* submit button */
+.form-container .btn {
+  background-color: #8cb9a0;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+.form-container .cancel {
+  background-color:#2E3620;
+}
+
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+@media only screen and (max-width: 400px){
+
+.form-popup .form-container .h6{
+line-height: 2rem;
+}
+}
+@media only screen and (min-width: 350px){
+
+.form-popup .form-container .h6{
+line-height: 2rem;
+}
+}
+
+
+@media only screen and (max-width: 430px) {
+.hed2{
+    display: none;
+}
+.hed1{
+    margin-top: 5rem;
+    font-size: 3rem;
+    line-height: 3rem;
+    width: 100%;
+}
+
+.nav{
+padding-top: 5vw;
+width: 100%;
+clear: both;  
+box-sizing: none;
+}
+.sidea{
+width: 100%;
+padding-top: 5vw;
+padding-left: 5vw;
+color: white;
+clear: both;
+}
+.sideb{
+display: none;
+}
+.sec1{
+background-image: url(../fort\ pic/5593951-960_24254018_328062531005049_46289074457149440_n_p.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-color:#C9D4CE; 
+}
+
+/* sec 2  */
+  
+.sec2{
+    display: none;
+}
+  
+/* sec 3  */
+.sec3{
+    display: none;
+}
+  
+  /* section 4 */
+.sec4{
+    width: 100%;
+    height: 35rem;
+    padding-top: 7rem;
+    clear: both;
+    background-color:#C9D4CE;  
+}
+
+.sec4 p input{
+    margin-left: 7rem;
+}
+
+.sec4 h2{
+    font-size:3rem;
+    text-align: center;
+    font-weight: bold;   
+}
+.sec4 p{
+    text-align: center;
+    font-size: 2rem;
+    line-height: 2rem;
+}
+/* section 4 end */
+
+/* section 5*/
+.sec5{
+    width: 100%; 
+    height: 25rem;  
+}
+.aside7{
+    text-align: center; 
+}
+ .aside7 li{
+    font-size: 3rem;
+    text-decoration: none;
+    list-style-type: none;
+ }
+ .aside7 p{
+    font-size: 2rem;
+    line-height: 2rem;
+ }
+.tainer-con{
+    background-color:#C9D4CE; 
+    width: 100%;
+}
+
+  .footer{
+    font-family:'League Spartan', sans-serif;
+    line-height: 3vw;
+    font-size: 1.3vw;
+    margin-right: 5vw;
+  }
+.form-container .h6{
+line-height: 2rem;
+}
+/* section 5 end */
+}
+
+ @media only screen and (max-width: 600px) {
+    .sec1 ul li{
+        display: inline-block;
+        clear: both;
+        font-family: 'League Spartan', sans-serif;
+        /* padding:1vw; */
+        /* padding-top: 1.5rem; */
+    }
+    .log1{
+        width: 5%;
+        float: left;
+        /* margin-left: 1rem; */
+        /* font-size: 1rem; */
+      }
+      .log2{
+        /* width: 5%; */
+          float: left;
+          font-size: 1vw;}
+      .log3{
+        /* width: 5%; */
+          float: left;
+          font-size: 1vw;}
+      .log4{
+        /* width: 20%; */
+          float: left;
+          font-size: 1vw;}
+      .log5{
+        /* width: 5%; */
+          float: left;
+          font-size: 1vw;}
+      
+      .sec1{
+          width: 100%;
+          height: 40rem;
+      }
+      .hed2{
+          font-size: 0.5rem;
+          color: rgb(97, 97, 97);
+          line-height: 0.5rem;
+      }
+      .hed1{
+          font-size: 3rem;
+          line-height: 3rem;
+      }
+      .nav{
+        box-sizing: border-box;
+        padding-top: 5vw;
+        clear: both;
+        
+    }
+    .sidea{
+      width: 50%;
+      float: left;
+      padding-top: 3vw;
+      padding-left: 5vw;
+      
+    
+    }
+    .sideb{
+        width: 50%;
+        float: right;
+        background-size: contain;
+        padding-left: 5vw;
+    }
+    
+    .img1{
+        height: 80%;
+        width: 70%;
+    }
+  
+   /* sec 2  */
+  
+   .sec2{
+      font-family: 'League Spartan', sans-serif;
+      width: 100%;
+      height: 34rem;
+      padding-top: 5rem;
+      clear: both;
+  }
+  
+  .para {
+      line-height: 3rem;
+      font-size: 3rem;
+  }
+  
+  .box{
+      box-sizing: border-box;
+      clear: both;
+      align-items: center;   
+  }
+  
+  .block1{
+      width: 33%;
+      float: left; 
+      background-color: white;
+      padding: 2vw;
+  }
+  .block1 li{
+      font-size: 3rem;  
+  }
+  .block2{
+      width: 33%;
+      float: left; 
+      background-color: white;
+      padding: 2vw;
+  }
+  .block2 li{
+      font-size: 3rem;  
+  }
+  .block3{
+      width: 33%;
+      float: left;
+      background-color: white; 
+      padding: 2vw;
+  }
+  .block3 li{
+      font-size: 3rem;  
+  }
+  /* sec 3  */
+  .sec3{
+      width: 100%;
+      height: 44rem;
+  }
+  .aside7{
+      text-align: center;
+  }
+  
+  .container{
+      box-sizing: border-box;
+  }
+  .trekk{
+      text-align: center;
+  }
+  .trekk p{
+      font-size: 3vw;
+  }
+  .trekk h2{
+      font-size: 4vw;
+  }
+  
+  .col1{
+      width: 30%;
+      float: left; 
+      margin-left:5% ;
+     
+  }
+  .col2{
+      width: 30%;
+      float: left; 
+     
+      
+  }
+  .col3{
+      width: 30%;
+      float: left;
+      margin-right:5% ;
+     
+  }
+  /* section 4 */
+.sec4{
+    width: 100%;
+    height: 35rem;
+    padding-top: 7rem;
+    clear: both;
+    background-color:#C9D4CE;  
+}
+
+.sec4 p input{
+    margin-left: 7rem;
+}
+
+.sec4 h2{
+    font-size:3rem;
+    text-align: center;
+    font-weight: bold;   
+}
+.sec4 p{
+    text-align: center;
+    font-size: 2rem;
+    line-height: 2rem;
+}
+/* section 4 end */
+
+/* section 5*/
+.sec5{
+    width: 100%; 
+    height: 20rem;  
+}
+.aside7{
+    text-align: center; 
+}
+ .aside7 li{
+    font-size: 3rem;
+    text-decoration: none;
+    list-style-type: none;
+ }
+ .aside7 p{
+    font-size: 2rem;
+    line-height: 2rem;
+ }
+.tainer-con{
+    background-color:#C9D4CE; 
+    width: 100%;
+}
+
+  .footer{
+    font-family:'League Spartan', sans-serif;
+    line-height: 3vw;
+    font-size: 1.3vw;
+    margin-right: 5vw;
+
+  }
+
+/* section 5 end */
+  }
+
+ @media only screen and (max-width: 800px) {
+
+.log1{
+    width: 40%;
+    float: left;
+    margin-left: 1rem;
+    font-size: 2rem;
+    }
+.log2{width: 15%;
+    float: left;
+    font-size: 1.5rem;}
+.log3{width: 15%;
+    float: left;
+    font-size: 1.5rem;}
+.log4{width: 20%;
+    float: left;
+    font-size: 1.5rem;}
+.log5{width: 15%;
+    float: left;
+    font-size: 1.5rem;}
+
+.sec1{
+    width: 100%;
+    height: 40rem;
+}
+.hed2{
+    font-size: 1.5rem;
+    color: rgb(97, 97, 97);
+    line-height: 2rem;
+}
+.hed1{
+    font-size: 2rem;
+    line-height: 2rem;
+}
+    
+.nav{
+    box-sizing: border-box;
+    padding-top: 5vw;
+    clear: both; 
+}
+.sidea{
+width: 50%;
+float: left;
+padding-top: 3vw;
+padding-left: 5vw;
+}
+.sideb{
+    width: 50%;
+    float: right;
+    background-size: contain;
+    padding-left: 5vw;
+}
+
+.img1{
+    height: 90%;
+    width: 80%;
+}
+
+/* sec 2  */
+  
+.sec2{
+    font-family: 'League Spartan', sans-serif;
+    width: 100%;
+    height: 34rem;
+    padding-top: 10rem;
+    clear: both;
+}
+
+.para {
+    line-height: 3rem;
+    font-size: 3rem;
+}
+
+.box{
+    box-sizing: border-box;
+    clear: both;
+    align-items: center;   
+}
+
+.block1{
+    width: 33%;
+    float: left; 
+    background-color: white;
+    padding: 2vw;
+}
+.block1 li{
+    font-size: 3rem;  
+}
+.block2{
+    width: 33%;
+    float: left; 
+    background-color: white;
+    padding: 2vw;
+}
+.block2 li{
+    font-size: 3rem;  
+}
+.block3{
+    width: 33%;
+    float: left;
+    background-color: white; 
+    padding: 2vw;
+}
+.block3 li{
+    font-size: 3rem;  
+}
+/* sec 3  */
+.sec3{
+    width: 100%;
+    height: 44rem;
+}
+.aside7{
+    text-align: center;
+}
+
+.container{
+    box-sizing: border-box;
+}
+.trekk{
+    text-align: center;
+}
+.trekk p{
+    font-size: 3vw;
+}
+.trekk h2{
+    font-size: 4vw;
+}
+
+.col1{
+    width: 33%;
+    float: left; 
+    text-align: center;
+    
+}
+.col2{
+    width: 33%;
+    float: left;   
+}
+.col3{
+    width: 33%;
+    float: left;  
+}
+  /* section 4 */
+.sec4{
+    width: 100%;
+    height: 35rem;
+    padding-top: 7rem;
+    clear: both;
+    background-color:#C9D4CE;  
+}
+
+.sec4 p input{
+    margin-left: 7rem;
+}
+
+.sec4 h2{
+    font-size:2rem;
+    text-align: center;
+    font-weight: bold;   
+}
+.sec4 p{
+    text-align: center;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    margin: 1rem;
+}
+/* section 4 end */
+
+/* section 5*/
+.sec5{
+    width: 100%; 
+    height: 20rem;  
+}
+.aside7{
+    text-align: center; 
+}
+ .aside7 li{
+    font-size: 3rem;
+    text-decoration: none;
+    list-style-type: none;
+ }
+ .aside7 p{
+    font-size: 1.8rem;
+    line-height: 2rem;
+ }
+.tainer-con{
+    background-color:#C9D4CE; 
+    width: 100%;
+}
+
+  .footer{
+    font-family:'League Spartan', sans-serif;
+    line-height: 3vw;
+    font-size: 1.3vw;
+    margin-right: 5vw;
+
+  }
+
+/* section 5 end */
+  }
+
+
+@media only screen and (max-width: 1200px) {
+
+    .log1{
+      width: 40%;
+      float: left;
+      margin-left: 1rem;
+      font-size: 2rem;
+    }
+    .log2{width: 15%;
+        float: left;
+        font-size: 1.5rem;}
+    .log3{width: 15%;
+        float: left;
+        font-size: 1.5rem;}
+    .log4{width: 20%;
+        float: left;
+        font-size: 1.5rem;}
+    .log5{width: 15%;
+        float: left;
+        font-size: 1.5rem;}
+    
+    .sec1{
+        width: 100%;
+        height: 40rem;
+    }
+    .hed2{
+        font-size: 2rem;
+        color: rgb(97, 97, 97);
+        line-height: 2rem;
+    }
+    .hed1{
+        font-size: 3rem;
+        line-height: 3rem;
+    }
+
+
+ /* sec 2  */
+
+ .sec2{
+    font-family: 'League Spartan', sans-serif;
+    width: 100%;
+    height: 34rem;
+    padding-top: 5rem;
+    clear: both;
+}
+
+.para {
+    line-height: 3rem;
+    font-size: 3rem;
+}
+
+.box{
+    box-sizing: border-box;
+    clear: both;
+    align-items: center;
+   
+    
+}
+
+.block1{
+    width: 30%;
+    float: left; 
+    margin-left:5% ;
+    background-color: white;
+    padding: 2vw;
+}
+.block1 li{
+    font-size: 2vw;  
+}
+.block2{
+    width: 30%;
+    float: left; 
+    background-color: white;
+    padding: 2vw;
+}
+.block2 li{
+    font-size: 2vw;  
+}
+.block3{
+    width: 30%;
+    float: left;
+    margin-right:5% ;
+    background-color: white; 
+    padding: 2vw;
+}
+.block3 li{
+    font-size: 2vw;  
+}
+
+
+.sec2 ol li{
+    list-style-type: none;
+    
+}
+.sec2 ol li a{
+    text-decoration: none;
+}
+
+.sec2 p{
+    text-align: center;
+    /* padding-top: 5vw; */
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+
+}
+/* sec 3  */
+.sec3{
+    width: 100%;
+    height: 44rem;
+}
+.aside7{
+    text-align: center;
+}
+
+.container{
+    box-sizing: border-box;
+}
+.trekk{
+    text-align: center;
+}
+.trekk p{
+    font-size: 2vw;
+}
+.trekk h2{
+    font-size: 4vw;
+}
+
+.col1{
+    width: 25%;
+    float: left; 
+    margin-left:10% ;
+   
+}
+.col2{
+    width: 25%;
+    float: left; 
+   
+    
+}
+.col3{
+    width: 25%;
+    float: left;
+    margin-right:10% ;
+   
+}
+}
